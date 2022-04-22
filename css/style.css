@@ -1,7 +1,108 @@
-#hero {
-    background-image: url("../images/national\ park.jpg");
+#jumbo {
+    background-image: url("../images/nationalpark.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
     height: 75vh;
+    opacity:0.5;
+}
+.carousel-inner{
+    padding:200px;
+}
+#header{
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    opacity: 10 !important;
+}
+#research{
+    text-align:center; 
+    padding:50px;
+    font-weight: bold;
+}
+#siteMap{
+    height:500px;
+    padding:10px;
+}
+#media{
+    text-align: center;
+}
+#moodboard{
+    height:200px;
+    padding-top: 15px;
+}
+#wireframe{
+    height:500px;
+}
+#styleGuide{
+    height:300px;
+}
+#inner{
+    width:700px;
+    align-items: center;
+}
+#final{
+    width:800px;
+}
+#siteMap{
+    height: 800px;
+    padding: 50px;
+}
+#site{
+    font-weight:bolder;
+    padding:15px;
+}
+#sitemap{
+    background: #7D8C82;
+}
+#project{
+    color:#38453E;
+}
+#about{
+    color:#38453E
+}
+#contact{
+    color:#38453E;
+}
+#buttonone{
+    color:#7D8C82;
+}
+#buttontwo{
+    color: #7D8C82;
+}
+#buttonthree{
+    color: #7D8C82;
+}
+#research{
+    padding-top: 10px;
+}
+#design{
+    padding-top:15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+#mood{
+    padding-top: 15px;
+    color:#7D8C82;
+    text-decoration: underline;
+}
+#wire{
+    padding-top: 15px;
+    color:#7D8C82;
+    text-decoration: underline;
+}
+#style{
+    padding-top: 15px;
+    color:#7D8C82;
+    text-decoration: underline;  
+}
+#tests{
+    background: #7D8C82;
+    text-align:center; 
+    padding:50px;
+    font-weight: bold;
+}
+#prototype{
+    background: #7D8C82;
 }
